@@ -1,0 +1,1 @@
+Codes written for practice with the book 『자바스크립트와 Node.js를 이용한 웹 크롤링 테크닉』 by クジラ飛行机. Codes are originally written from 2020-10-06 to 2020-11-03. Archived at 2026-02-14.
