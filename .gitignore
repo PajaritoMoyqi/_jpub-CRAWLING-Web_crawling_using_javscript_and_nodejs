@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# modules
+/node_modules
+
+# ignore files
+2-test-*.js
+3-test-*.js
+4-test-*.js
+
+# result files
+/img
+*.png
+test.sqlite
+jpub.sqlite
+/testdb
+/jpub
+test.pdf
+output*.pdf
+kma_city_codes.xlsx
+test.html
